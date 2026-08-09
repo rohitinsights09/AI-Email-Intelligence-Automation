@@ -1,0 +1,24 @@
+2026-08-09 21:58:13,231 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 21:58:17,782 | INFO | Email 1 | Category: billing, technical, account | Priority: high | Sentiment: negative | Decision: Human approval required | Status: approved
+2026-08-09 21:58:21,456 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 21:58:23,378 | INFO | Email 2 | Category: account | Priority: high | Sentiment: neutral | Decision: Human approval required | Status: rejected
+2026-08-09 21:58:27,037 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 21:58:28,914 | INFO | Email 3 | Category: billing | Priority: medium | Sentiment: neutral | Decision: Human approval required | Status: approved
+2026-08-09 22:01:30,427 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:01:35,093 | INFO | Email 1 | Category: billing, technical, account, general, or other | Priority: high | Sentiment: negative | Decision: Human approval required | Status: approved
+2026-08-09 22:01:39,484 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:01:48,486 | INFO | Email 2 | Category: technical, account | Priority: high | Sentiment: neutral | Decision: Human approval required | Status: rejected
+2026-08-09 22:01:52,039 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:01:55,666 | INFO | Email 3 | Category: billing | Priority: medium | Sentiment: neutral | Decision: Human approval required | Status: approved
+2026-08-09 22:14:44,847 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:14:49,121 | INFO | Email 1 | Category: billing | Priority: high | Sentiment: negative | Decision: Human approval required | Status: approved
+2026-08-09 22:14:55,898 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:14:57,046 | INFO | Email 2 | Category: technical | Priority: high | Sentiment: neutral | Decision: Human approval required | Status: rejected
+2026-08-09 22:15:03,211 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:15:04,888 | INFO | Email 3 | Category: billing | Priority: high | Sentiment: neutral | Decision: Human approval required | Status: approved
+2026-08-09 22:43:39,670 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:43:45,751 | INFO | Email 1 | Category: billing | Priority: high | Sentiment: negative | Decision: Human approval required | Status: approved
+2026-08-09 22:43:52,536 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:43:56,903 | INFO | Email 2 | Category: account | Priority: high | Sentiment: neutral | Decision: Human approval required | Status: rejected
+2026-08-09 22:44:03,365 | INFO | HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2026-08-09 22:44:06,951 | INFO | Email 3 | Category: billing | Priority: medium | Sentiment: neutral | Decision: Human approval required | Status: approved

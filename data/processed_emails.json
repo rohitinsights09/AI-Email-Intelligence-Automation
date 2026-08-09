@@ -1,0 +1,35 @@
+[
+    {
+        "email_id": 1,
+        "subject": "Charged twice for my subscription",
+        "category": "billing",
+        "priority": "high",
+        "sentiment": "negative",
+        "summary": "Customer charged twice for subscription this month and requests refund.",
+        "action": "human_approval",
+        "decision": "Human approval required",
+        "status": "approved"
+    },
+    {
+        "email_id": 2,
+        "subject": "How do I reset my password?",
+        "category": "account",
+        "priority": "high",
+        "sentiment": "neutral",
+        "summary": "Customer unable to log in due to forgotten password.",
+        "action": "human_approval",
+        "decision": "Human approval required",
+        "status": "rejected"
+    },
+    {
+        "email_id": 3,
+        "subject": "Cancel my subscription",
+        "category": "billing",
+        "priority": "medium",
+        "sentiment": "neutral",
+        "summary": "Customer wants to cancel their subscription.",
+        "action": "human_approval",
+        "decision": "Human approval required",
+        "status": "approved"
+    }
+]

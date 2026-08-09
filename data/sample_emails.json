@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "sender": "customer@example.com",
+        "subject": "Charged twice for my subscription",
+        "body": "Hi, I was charged twice for my subscription this month. Please refund one of the payments."
+    },
+    {
+        "id": 2,
+        "sender": "customer2@example.com",
+        "subject": "How do I reset my password?",
+        "body": "I forgot my password and I am unable to log into my account. Please help me reset it."
+    },
+    {
+        "id": 3,
+        "sender": "customer3@example.com",
+        "subject": "Cancel my subscription",
+        "body": "I would like to cancel my subscription. Please let me know how I can do this."
+    }
+]
