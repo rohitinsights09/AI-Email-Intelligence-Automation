@@ -203,3 +203,7 @@ AI Email Intelligence & Automation
 Python + Local LLM + AI Automation + Data Analysis + Streamlit
 
 An end-to-end project designed to demonstrate how AI can be used to classify, analyze and automate email workflows.
+
+<img width="882" height="685" alt="image" src="https://github.com/user-attachments/assets/735faeb7-8064-4b36-905b-2b9db993cf9e" />
+<img width="877" height="677" alt="image" src="https://github.com/user-attachments/assets/1ff91abf-57c1-42f9-a2e6-817f0c94bd76" />
+
